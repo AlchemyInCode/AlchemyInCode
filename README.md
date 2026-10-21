@@ -44,6 +44,7 @@ Open-source CLI and MCP server that turns committed eval files into gated CI che
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1b1e22?style=flat-square&logo=typescript&logoColor=1fa3c4" />
   <img src="https://img.shields.io/badge/Node.js-1b1e22?style=flat-square&logo=nodedotjs&logoColor=a8a832" />
+  <img src="https://img.shields.io/badge/Python-1b1e22?style=flat-square&logo=python&logoColor=1fa3c4" />
   <img src="https://img.shields.io/badge/MCP-1b1e22?style=flat-square&logoColor=b23c8c" />
   <img src="https://img.shields.io/badge/GitHub_Actions-1b1e22?style=flat-square&logo=githubactions&logoColor=1fa3c4" />
   <img src="https://img.shields.io/badge/OpenAI-1b1e22?style=flat-square&logo=openai&logoColor=white" />
@@ -54,9 +55,13 @@ Open-source CLI and MCP server that turns committed eval files into gated CI che
 ### Connect
 
 <p>
-  <a href="https://plumloom.ai"><img src="https://img.shields.io/badge/plumloom.ai-1fa3c4?style=for-the-badge&labelColor=1b1e22" /></a>
+  <a href="https://plumloom.ai"><img src="https://img.shields.io/badge/Plumloom-1fa3c4?style=for-the-badge&labelColor=1b1e22" /></a>
+  <a href="https://plumloom.ai/research"><img src="https://img.shields.io/badge/Research-a8a832?style=for-the-badge&labelColor=1b1e22" /></a>
+  <a href="https://huggingface.co/Plumloom"><img src="https://img.shields.io/badge/Hugging_Face-b23c8c?style=for-the-badge&labelColor=1b1e22" /></a>
   <a href="https://plumloom.ai/free-pilot"><img src="https://img.shields.io/badge/Free_Autoeval_Pilot-b23c8c?style=for-the-badge&labelColor=1b1e22" /></a>
-  <a href="mailto:support@plumloom.ai"><img src="https://img.shields.io/badge/Email-a8a832?style=for-the-badge&labelColor=1b1e22" /></a>
+  <a href="https://plumloom.ai/contact"><img src="https://img.shields.io/badge/Contact-a8a832?style=for-the-badge&labelColor=1b1e22" /></a>
+  <a href="https://www.linkedin.com/in/spatialthinker"><img src="https://img.shields.io/badge/LinkedIn-1fa3c4?style=for-the-badge&labelColor=1b1e22" /></a>
+  <a href="https://x.com/spatialthinker8"><img src="https://img.shields.io/badge/X-b23c8c?style=for-the-badge&labelColor=1b1e22" /></a>
 </p>
 
 <p align="center"><img src="assets/pmark.png" alt="Plumloom" width="32" /></p>
